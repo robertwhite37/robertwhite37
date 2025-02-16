@@ -85,9 +85,9 @@ I’m a cybersecurity engineer with **10+ years of experience** in securing appl
 - Cloud-native Security with Kubernetes
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertwhite37)  
-[![Website](https://img.shields.io/badge/Website-4285F4?logo=google-chrome&logoColor=white)](https://robertwhite.vercel.app/)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/yourchannel)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/robertwhite37)  
+[![Website](https://img.shields.io/badge/Website-4285F4?logo=google-chrome&logoColor=white&style=flat-square)](https://robertwhite.vercel.app/)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/yourchannel)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/yourhandle)
 
 ⚡ **Fun Fact:** Cybersecurity is not just about breaking things, it's about securing them before others do! 🔥
