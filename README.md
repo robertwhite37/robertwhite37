@@ -1,4 +1,4 @@
-# ![Cybersecurity Logo]([https://github.com/robertwhite37/robertwhite37/blob/main/3.png])
+# ![Cybersecurity Logo](https://raw.githubusercontent.com/robertwhite37/robertwhite37/main/3.png)
 
 # Hi there, I'm [Your Name] 👋
 
