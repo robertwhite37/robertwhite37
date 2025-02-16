@@ -1,4 +1,6 @@
-# <img src="https://raw.githubusercontent.com/robertwhite37/robertwhite37/main/3.png" width="600" alt="Cybersecurity Logo">
+<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://raw.githubusercontent.com/robertwhite37/robertwhite37/main/3.png" width="150" alt="Cybersecurity Logo">
+</p>
 
 # Hi there, I'm [Robert White] 👋
 
