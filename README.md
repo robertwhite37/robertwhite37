@@ -92,4 +92,7 @@ With **10+ years of experience** in **software development** and **10+ years in 
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square"/></a>
 </p>  
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="robertwhite37" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/robertwhite37?trk=profile-badge">Robert W.</a></div>
+              
+
 ⚡ **Fun Fact:** Cybersecurity is not just about breaking things, it's about securing them before others do! 🔥
