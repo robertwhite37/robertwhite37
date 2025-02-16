@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/robertwhite37/robertwhite37/main/3.png" width="150" alt="Cybersecurity Logo">
+# <img src="https://raw.githubusercontent.com/robertwhite37/robertwhite37/main/3.png" width="600" alt="Cybersecurity Logo">
 
 # Hi there, I'm [Robert White] 👋
 
