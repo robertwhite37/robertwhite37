@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/robertwhite37/robertwhite37/main/3.png" width="450" alt="Cybersecurity Logo">
 </p>
 
-# Hi there, I'm [Robert White] 👋
+# Hi there, I'm Robert White 👋
 
 🚀 **Cybersecurity Engineer | Application Security | Penetration Testing**
 
