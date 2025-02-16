@@ -4,7 +4,7 @@
 
 # Hi there, I'm Robert White 👋
 
-🚀 **Cybersecurity Engineer | Application Security | Penetration Testing**
+🚀 **Cybersecurity Engineer | Application Security | Penetration Testing | DecSecOps | Cloud Security**
 
 With **10+ years of experience** in **software development** and **10+ years in cybersecurity**, I bring a unique ability to bridge security and engineering. My deep understanding of **software architecture, secure coding, and application security** allows me to design and implement robust, scalable, and secure systems. Experienced in **threat modeling, vulnerability assessments, DevSecOps, penetration testing, and cloud security**, I ensure security is not just an afterthought but a core part of the development lifecycle. Passionate about solving complex security challenges, mentoring teams, and driving a security-first culture while maintaining high-performance software solutions.!
 
