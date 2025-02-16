@@ -63,20 +63,20 @@ I’m a cybersecurity engineer with **10+ years of experience** in securing appl
 - **DevSecOps:** GitHub Actions, Docker Security, Kubernetes Security, Terraform Security
 
 ## 📝 Projects & Contributions
-- **Project Name 1**  
-  [GitHub Repository](https://github.com/your-repo1)  
+- **OWASP Zap Proxy Security Scanning**  
+  [GitHub Repository](https://github.com/robertwhite37/Owasp_Zap_Security_Scanning)  
   Brief description of the project.
 
-- **Project Name 2**  
-  [GitHub Repository](https://github.com/your-repo2)  
+- **Brute_F XSS**  
+  [GitHub Repository](https://github.com/robertwhite37/BruteF_XSS)  
   Brief description of the project.
 
-- **Project Name 3**  
-  [GitHub Repository](https://github.com/your-repo3)  
+- **Mac Query with Python**  
+  [GitHub Repository](https://github.com/robertwhite37/mac_query_with_python)  
   Brief description of the project.
 
-- **Project Name 4**  
-  [GitHub Repository](https://github.com/your-repo4)  
+- **Mock API**  
+  [GitHub Repository](https://github.com/robertwhite37/aluna_api_ui_example)  
   Brief description of the project.
 
 ## 🌱 **Currently Learning**
