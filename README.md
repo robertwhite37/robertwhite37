@@ -85,9 +85,11 @@ I’m a cybersecurity engineer with **10+ years of experience** in securing appl
 - Cloud-native Security with Kubernetes
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/robertwhite37)  
-[![Website](https://img.shields.io/badge/Website-4285F4?logo=google-chrome&logoColor=white&style=flat-square)](https://robertwhite.vercel.app/)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/yourchannel)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/yourhandle)
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square"/></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-4285F4?logo=google-chrome&logoColor=white&style=flat-square"/></a>
+  <a href="https://www.youtube.com/yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat-square"/></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square"/></a>
+</p>](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/yourprofile)  
 
 ⚡ **Fun Fact:** Cybersecurity is not just about breaking things, it's about securing them before others do! 🔥
