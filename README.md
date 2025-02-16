@@ -9,14 +9,24 @@
 I’m a cybersecurity engineer with **10+ years of experience** in securing applications, performing penetration testing, and implementing best security practices. My focus is on **application security, threat modeling, vulnerability management, and cloud security**.
 
 ## 🔐 **Expertise**
-- Application Security (SAST, DAST, RASP, IAST)
-- Penetration Testing (Web, API, Network, Mobile)
-- Secure Code Review (JavaScript, Python, TypeScript, Shell Scripting)
-- Identity & Access Management (OAuth 2.0, SAML, MFA, RBAC, ABAC)
-- Cloud Security (AWS, Azure Security Best Practices)
-- DevSecOps (CI/CD Security, GitHub Actions, Burp Suite, OWASP ZAP, Veracode)
-- Network Security (Firewalls, IDS/IPS, TLS, Zero Trust)
-- Incident Response & Threat Intelligence
+- **Programming Language:** Python, TypeScript, JavaScript, Shell Scripting
+- **Threat Modeling & Risk Assessment:** Microsoft Threat Modeling Tool, OWASP Threat Dragon
+- **Vulnerability Management:** Nessus, OpenVAS, Qualys
+- **Incident Response:** Splunk, Sentinel, IBM QRadar, Security Onion
+- **Secure Coding Practices:** SonarQube, Checkmarx, Synk, Nessus (library repo)
+- **Identity and Access Management (IAM):** AWS IAM, Okta, Microsoft Azure Active Directory
+- **Encryption and Cryptography:** OpenSSL, AWS Key Management Service (KMS), HashiCorp Vault
+- **Patch Management:** WSUS, Qualys Patch Management, SCCM
+- **Penetration Testing:** Burp Suite, Metasploit, OWASP ZAP, Kali Linux
+- **Cloud Security:** AWS Security Hub, Azure Security Center
+- **Security Automation:** Ansible, Terraform, Jenkins, GitLab CI, GitHub Actions
+- **SAST:** OWASP Dependency-Check, Snyk, Black Duck, Fortify, AppScan
+- **DAST:** OWASP Zap Proxy, BurpSuite, Qualys Web Application Scanning (WAS)
+- **Mobile App Security:** NowSecure, MobSF
+- **Compliance and Policy Development:** NIST CSF, ISO/IEC 27001, CIS Controls, GDPR
+- **Security Audits:** AuditScripts, Nessus, OpenSCAP
+- **Log Management:** Sumo Logic, Mix Panel
+- **Database Monitoring:** Sentry One, Datadog, Prometheus, Grafana
 
 ## 📌 **Certifications**
 - 🏆 Certified Ethical Hacker (CEH)
