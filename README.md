@@ -68,7 +68,7 @@ With **10+ years of experience** in **software development** and **10+ years in 
 - **Cloud:** AWS Security Hub, AWS IAM, Azure Security Center
 - **DevSecOps:** GitHub Actions, Docker Security, Kubernetes Security, Terraform Security
 
-## 📝 Projects & Contributions
+## 📝 Sample Projects
 - **OWASP Zap Proxy Security Scanning**  
   [GitHub Repository](https://github.com/robertwhite37/Owasp_Zap_Security_Scanning)  
   Brief description of the project.
@@ -84,11 +84,6 @@ With **10+ years of experience** in **software development** and **10+ years in 
 - **Mock API**  
   [GitHub Repository](https://github.com/robertwhite37/aluna_api_ui_example)  
   Brief description of the project.
-
-## 🌱 **Currently Learning**
-- Red Teaming Techniques & Adversary Simulation
-- Zero Trust Architecture Implementation
-- Cloud-native Security with Kubernetes
 
 ## 📫 Let's Connect!
 <p align="center">
