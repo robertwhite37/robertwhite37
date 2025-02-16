@@ -1,6 +1,12 @@
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://raw.githubusercontent.com/robertwhite37/robertwhite37/main/3.png" width="450" alt="Cybersecurity Logo">
+  <a href="https://www.linkedin.com/in/robertwhite37">
+    <img src="https://raw.githubusercontent.com/robertwhite37/robertwhite37/main/3.png" width="150" alt="Cybersecurity Logo">
+  </a>
 </p>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="robertwhite37" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/robertwhite37?trk=profile-badge">Robert W.</a>
+</div>
 
 # Hi there, I'm Robert White 👋
 
@@ -91,8 +97,5 @@ With **10+ years of experience** in **software development** and **10+ years in 
   <a href="https://www.youtube.com/yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat-square"/></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square"/></a>
 </p>  
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="robertwhite37" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/robertwhite37?trk=profile-badge">Robert W.</a></div>
               
-
 ⚡ **Fun Fact:** Cybersecurity is not just about breaking things, it's about securing them before others do! 🔥
