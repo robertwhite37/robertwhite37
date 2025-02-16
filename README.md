@@ -62,13 +62,22 @@ I’m a cybersecurity engineer with **10+ years of experience** in securing appl
 - **Cloud:** AWS Security Hub, AWS IAM, Azure Security Center
 - **DevSecOps:** GitHub Actions, Docker Security, Kubernetes Security, Terraform Security
 
-## 📝 **Sample Projects**
-- **[OWASP Zap Web Application Security Scanning] (https://github.com/robertwhite37/Owasp_Zap_Security_Scanning)
-](https://github.com/your-repo1)** 
-- **[Project Name 2](https://github.com/your-repo2)** - Brief description of the project.
-- **[Project Name 3](https://github.com/your-repo3)** - Brief description of the project.
-- **[Project Name 4](https://github.com/your-repo4)** - Brief description of the project.
-- **[Project Name 5](https://github.com/your-repo5)** - Brief description of the project.
+## 📝 Projects & Contributions
+- **Project Name 1**  
+  [GitHub Repository](https://github.com/your-repo1)  
+  Brief description of the project.
+
+- **Project Name 2**  
+  [GitHub Repository](https://github.com/your-repo2)  
+  Brief description of the project.
+
+- **Project Name 3**  
+  [GitHub Repository](https://github.com/your-repo3)  
+  Brief description of the project.
+
+- **Project Name 4**  
+  [GitHub Repository](https://github.com/your-repo4)  
+  Brief description of the project.
 
 ## 🌱 **Currently Learning**
 - Red Teaming Techniques & Adversary Simulation
