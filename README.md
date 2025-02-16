@@ -1,11 +1,11 @@
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
   <a href="https://www.linkedin.com/in/robertwhite37">
-    <img src="https://raw.githubusercontent.com/robertwhite37/robertwhite37/main/3.png" width="150" alt="Cybersecurity Logo">
+    <img src="https://raw.githubusercontent.com/robertwhite37/robertwhite37/main/3.png" width="450" alt="Cybersecurity Logo">
   </a>
 </p>
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="robertwhite37" data-version="v1">
-  <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/robertwhite37?trk=profile-badge">Robert W.</a>
+  <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/robertwhite37?trk=profile-badge"></a>
 </div>
 
 # Hi there, I'm Robert White 👋
