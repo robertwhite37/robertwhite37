@@ -29,11 +29,32 @@ I’m a cybersecurity engineer with **10+ years of experience** in securing appl
 - **Database Monitoring:** Sentry One, Datadog, Prometheus, Grafana
 
 ## 📌 **Certifications**
-- 🏆 Certified Ethical Hacker (CEH)
-- 🏆 Offensive Security Certified Professional (OSCP)
-- 🏆 AWS Certified Security – Specialty
-- 🏆 Certified Information Systems Security Professional (CISSP)
-- 🏆 Microsoft Certified: Azure Security Engineer Associate
+
+### Security Certifications
+- 🏆 CompTIA Security+ – CompTIA - 2022
+- 🏆 CompTIA Pentest+ - CompTIA – 2023
+- 🏆 CompTIA CASP+ - CompTIA - 2024
+- 🏆 CompTIA Network+ - CompTIA- 2022
+- 🏆 CompTIA CNVP (Network Vul. Assessment) – CompTIA - 2023
+- 🏆 IBM QRadar SIEM Foundation – IBM - 2021
+- 🏆 Splunk Core Certified User – Splunk 2022
+- 🏆 Palo Alto – Networks Academy Cybersecurity Foundation - 2019
+- 🏆 Falcon Responder, Crowdstrike - 2022
+
+### Cloud & DevOps Certifications
+- 🏆 SAA-C02 (AWS Solutions Architect), AWS
+- 🏆 CJE (Certified Jenkins Engineer)- Cloud Bees
+- 🏆 DOP-C01 (AWS Certified DevOps Engineer), AWS
+
+### Programming Certifications
+- 🏆 OCA (Java Developer 8 Programmer) - Oracle
+- 🏆 PCAP (Certified Professional Python Programming) - Python Institute
+- 🏆 PCEP (Certified Entry Level Python Programming) - Python Institute
+
+### Testing Certifications
+- 🏆 CTFL-AT (Agile Tester) – ISTQB
+- 🏆 CTFL (Certified Tester Foundation Level) – ISTQB
+- 🏆 Gatling Pro Performance Testing - Gatling
 
 ## 🛠 **Tech Stack & Tools**
 - **Languages:** Python, JavaScript, TypeScript, Bash
